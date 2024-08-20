@@ -1,4 +1,3 @@
-Here's the `README.md` file with the extended descriptions for `index.html` and `Dockerfile` removed:
 
 ---
 
@@ -139,4 +138,3 @@ Feel free to open issues or pull requests for improvements. Contributions are we
 
 ---
 
-You can copy this content directly into your `README.md` file on GitHub.
